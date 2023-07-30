@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/sahi-dev/My-Portfolio/static/css/main.6d389c45.css",
-    "main.js": "/sahi-dev/My-Portfolio/static/js/main.f95bd620.js",
-    "static/media/Vector2.png": "/sahi-dev/My-Portfolio/static/media/Vector2.87badab9678e967c06d6.png",
-    "static/media/Vector1.png": "/sahi-dev/My-Portfolio/static/media/Vector1.0108d10d1bba1c976b38.png",
-    "static/media/boy.png": "/sahi-dev/My-Portfolio/static/media/boy.5bb8402511f52648ea8d.png",
-    "static/media/resume.pdf": "/sahi-dev/My-Portfolio/static/media/resume.4cf9a0f69a33b50cfae7.pdf",
-    "static/media/glassesimoji.png": "/sahi-dev/My-Portfolio/static/media/glassesimoji.ffe1a1dc26ecc4e123e6.png",
-    "static/media/glasses.png": "/sahi-dev/My-Portfolio/static/media/glasses.ef91a1ed77d7d9384fec.png",
-    "static/media/heartemoji.png": "/sahi-dev/My-Portfolio/static/media/heartemoji.d7e03ef63c0b7c34f6f3.png",
-    "static/media/humble.png": "/sahi-dev/My-Portfolio/static/media/humble.059c6a4dde290455fde4.png",
-    "static/media/crown.png": "/sahi-dev/My-Portfolio/static/media/crown.a6c7e1cdb7d7852234e3.png",
-    "static/media/thumbup.png": "/sahi-dev/My-Portfolio/static/media/thumbup.37cb193f7175c8d22674.png",
-    "static/media/Facebook.png": "/sahi-dev/My-Portfolio/static/media/Facebook.a72748af2037ed042953.png",
-    "static/media/wave.png": "/sahi-dev/My-Portfolio/static/media/wave.fdfef4069ad90f610990.png",
-    "static/media/amazon.png": "/sahi-dev/My-Portfolio/static/media/amazon.09e65a1b31dcf3253463.png",
-    "static/media/fiverr.png": "/sahi-dev/My-Portfolio/static/media/fiverr.3266aef98cc1778000a3.png",
-    "index.html": "/sahi-dev/My-Portfolio/index.html",
-    "main.6d389c45.css.map": "/sahi-dev/My-Portfolio/static/css/main.6d389c45.css.map",
-    "main.f95bd620.js.map": "/sahi-dev/My-Portfolio/static/js/main.f95bd620.js.map"
+    "main.css": "/My-Portfolio/static/css/main.6d389c45.css",
+    "main.js": "/My-Portfolio/static/js/main.d97575ce.js",
+    "static/media/Vector2.png": "/My-Portfolio/static/media/Vector2.87badab9678e967c06d6.png",
+    "static/media/Vector1.png": "/My-Portfolio/static/media/Vector1.0108d10d1bba1c976b38.png",
+    "static/media/boy.png": "/My-Portfolio/static/media/boy.5bb8402511f52648ea8d.png",
+    "static/media/resume.pdf": "/My-Portfolio/static/media/resume.4cf9a0f69a33b50cfae7.pdf",
+    "static/media/glassesimoji.png": "/My-Portfolio/static/media/glassesimoji.ffe1a1dc26ecc4e123e6.png",
+    "static/media/glasses.png": "/My-Portfolio/static/media/glasses.ef91a1ed77d7d9384fec.png",
+    "static/media/heartemoji.png": "/My-Portfolio/static/media/heartemoji.d7e03ef63c0b7c34f6f3.png",
+    "static/media/humble.png": "/My-Portfolio/static/media/humble.059c6a4dde290455fde4.png",
+    "static/media/crown.png": "/My-Portfolio/static/media/crown.a6c7e1cdb7d7852234e3.png",
+    "static/media/thumbup.png": "/My-Portfolio/static/media/thumbup.37cb193f7175c8d22674.png",
+    "static/media/Facebook.png": "/My-Portfolio/static/media/Facebook.a72748af2037ed042953.png",
+    "static/media/wave.png": "/My-Portfolio/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/amazon.png": "/My-Portfolio/static/media/amazon.09e65a1b31dcf3253463.png",
+    "static/media/fiverr.png": "/My-Portfolio/static/media/fiverr.3266aef98cc1778000a3.png",
+    "index.html": "/My-Portfolio/index.html",
+    "main.6d389c45.css.map": "/My-Portfolio/static/css/main.6d389c45.css.map",
+    "main.d97575ce.js.map": "/My-Portfolio/static/js/main.d97575ce.js.map"
   },
   "entrypoints": [
     "static/css/main.6d389c45.css",
-    "static/js/main.f95bd620.js"
+    "static/js/main.d97575ce.js"
   ]
 }
